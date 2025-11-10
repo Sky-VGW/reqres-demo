@@ -3,7 +3,7 @@
 A simple full-stack example showing client-server communication.
 
 ## Run locally
-
+- In separate terminals
 ### Server
 - cd server
 - npm install
